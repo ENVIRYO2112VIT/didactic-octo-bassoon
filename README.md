@@ -1,2 +1,3 @@
 # didactic-octo-bassoon
-For HacktoberFest2022
+
+hey there, this is my attempt as a maintainer for hacktoberfest 2022
